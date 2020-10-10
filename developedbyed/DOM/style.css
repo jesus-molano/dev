@@ -1,0 +1,10 @@
+.spectacular {
+    color: #f3e6a1;
+    font-size: 50px;
+    text-shadow: 0px 1px 8px black;
+    font-family: sans-serif;
+}
+
+.main-title {
+    transition: 0.5s ease;
+}
