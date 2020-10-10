@@ -8,3 +8,7 @@
 .main-title {
     transition: 0.5s ease;
 }
+
+.fade {
+    opacity: 0;
+}
