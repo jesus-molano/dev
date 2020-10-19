@@ -26,3 +26,4 @@ function max(num1 = 0, num2 = 0) {
 const sayHello = () => {
     console.log("Hi!");
 };
+sayHello();
